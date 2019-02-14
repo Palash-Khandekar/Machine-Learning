@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains the basics of Machine Learning
+This repository contains the topics of basics of Machine Learning
